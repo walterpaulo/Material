@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "615860011459",
+    "firebase_url": "https://produto-4073c.firebaseio.com",
+    "project_id": "produto-4073c",
+    "storage_bucket": "produto-4073c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615860011459:android:9c583868cb4a89c5",
+        "android_client_info": {
+          "package_name": "br.edu.faculdadedelta.produto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615860011459-joplkd3u3uq9phhkjga7qob6ouu4nnar.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.edu.faculdadedelta.produto",
+            "certificate_hash": "d9bf10fd155a788e5092ba621856c37735c15497"
+          }
+        },
+        {
+          "client_id": "615860011459-equ5ds23jk0onj20a0pqsn6tchtl2pen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRKv6PcYmg6k-OLiYiRr4EyG8xUt1DNXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615860011459-equ5ds23jk0onj20a0pqsn6tchtl2pen.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
