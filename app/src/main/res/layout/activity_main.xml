@@ -54,24 +54,10 @@
             />
     </android.support.design.widget.TextInputLayout>
 
-    <Button
-        android:id="@+id/btnSalvar"
+    <ListView
+        android:id="@+id/lvLista"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="40dp"
-        android:background="@drawable/button_rounded"
-        android:text="SALVAR"
-        android:textColor="#ffffffff"
-        android:textSize="22sp"
+        android:layout_height="422dp" />
 
-        />
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="40dp"
-        android:background="@drawable/button_rounded"
-        android:text="LISTAR"
-        android:textColor="#ffffffff"
-        android:textSize="22sp"
-        android:onClick="listar"/>
+
 </LinearLayout>
